@@ -26,3 +26,17 @@ We have open-sourced these models at [https://zenodo.org/records/15469341](https
 | Low‑Ehull‑Materials       | [Zenodo 15221067](https://zenodo.org/records/15221067) | Large set of low‑formation‑energy, compositionally diverse crystals, emphasizing high‑entropy alloys. |
 | Candidate‑Superconductors | [Zenodo 14644273](https://zenodo.org/records/14644273) | Collection of candidate superconducting materials.                                                    |
 
+
+## 📄 Citation
+If you use **InvDesFlow-AL** in your research, please cite our work:
+```bibtex
+@misc{han2025invdesflowalactivelearningbasedworkflow,
+  title     = {InvDesFlow-AL: Active Learning-based Workflow for Inverse Design of Functional Materials}, 
+  author    = {Xiao-Qi Han and Peng-Jie Guo and Ze-Feng Gao and Hao Sun and Zhong-Yi Lu},
+  year      = {2025},
+  eprint    = {2505.09203},
+  archivePrefix = {arXiv},
+  primaryClass  = {cond-mat.mtrl-sci},
+  url       = {https://arxiv.org/abs/2505.09203},
+}
+```
