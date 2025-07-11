@@ -1,5 +1,6 @@
 # InvDesFlow-AL (The repository is continuously being updated.)
 The discovery of novel functional materials with targeted properties remains a fundamental challenge in materials science. In this work, we propose InvDesFlow-AL, an active learning-based generative framework for inverse materials design, which iteratively optimizes material generation towards desired properties.
+### The model and data of **InvDesFlow-AL** have been released, while the code is still under preparation. Before we finalize and perfect the full version of InvDesFlow-AL, you can already use the current version available at:[https://github.com/xqh19970407/InvDesFlow](https://github.com/xqh19970407/InvDesFlow)
 
 [**[Paper]**](https://arxiv.org/pdf/2505.09203)
 
